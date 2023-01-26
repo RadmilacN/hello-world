@@ -1,6 +1,6 @@
 my name is 
-###nemanja radmilac
+### Nemanja Radmilac
 i live in 
-##kragujevac
+## Kragujevac
 i'm trying to change my profession
-#Tech Tailors
+# Tech Tailors
